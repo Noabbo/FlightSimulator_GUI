@@ -11,7 +11,7 @@ An assignment to study the implementation of MVVM architecture using the WPF pla
 
 # Instructions for how to use, and test the code
 1. Run the server/simulator.
-2. Run the c# program in this repo.
+2. Run the c# program in this repo using the build_and_run.bat script.
 3. Connect to server/simulator by entering IP and port in the relevant places or press the Default button to connect to the server with IP    127.0.0.1 and port 5402.
 4. Run the simulator - fly the plane!
 5. If you wish to disconnect - press the Disconnect button.
